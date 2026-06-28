@@ -69,8 +69,6 @@ I design, build, secure, and automate modern technology platforms with a securit
 </tr>
 </table>---
 
----
-
 Featured Projects
 
 🧠 Praeceptor AI
