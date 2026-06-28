@@ -2,9 +2,17 @@
 
 </div>
 
-I am passionate about engineering secure, intelligent systems that enable individuals and organizations to embrace emerging technologies with confidence. Whether it's AI, Networking, communications infrastructure, or blockchain, my goal remains the same:
+---
 
-«Increase trust in technology through secure engineering.»
+About Me
+
+I am passionate about engineering secure, intelligent systems that enable individuals and organizations to embrace emerging technologies with confidence. Whether it's AI, networking, communications infrastructure, or blockchain, everything I build is driven by one purpose.
+
+<br><div align="center"><h1>
+<strong>Increase Trust in Technology</strong>
+<br>
+<strong>Through Secure Engineering.</strong>
+</div>---
 
 
 What I Do
