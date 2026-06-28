@@ -160,9 +160,9 @@ Git || Docker || Linux || AWS
 
 I'm always interested in discussing cybersecurity, secure systems design, AI security, or potential collaboration opportunities.
 
-- **Email**: [abrahamojabugbe@gmail.com](mailto: shieldnetinfo@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ojabugbe-abraham-3881552a2)
-- **Twitter/X**: [@yourhandle](https://x.com/abbydaanny)
+- **Email**: [shieldnetinfo@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/ojabugbe-abraham-3881552a2]
+- **Twitter/X**: [https://x.com/abbydaanny]
 
 ---
 
