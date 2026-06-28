@@ -11,9 +11,9 @@
 
 ## About Me
 
-Passionate Cybersecurity Engineer and founder of **Praeceptor AI**, I design and implement secure technology solutions that enable organizations and individuals to adopt emerging technologies with confidence. 
+I am a Cybersecurity Engineer and founder of **Praeceptor AI**, I design and implement secure technology solutions that enable organizations and individuals to adopt emerging technologies with confidence. 
 
-My expertise spans **AI security**, **enterprise networking**, **secure VoIP infrastructure**, and **blockchain systems**.
+My expertise spans **AI security**, **enterprise Networking**, **secure VoIP infrastructure**, and **blockchain systems**.
 
 > **Mission:** Increase trust in technology through thoughtful, resilient, and secure system design.
 
@@ -77,7 +77,7 @@ I architect, secure, and automate modern technology platforms with a strong emph
   <img src="assets/images/praeceptor-banner.png" width="100%" alt="Praeceptor AI">
 </p>
 
-An intelligent adaptive learning platform that enhances human mentorship through personalized guidance, long-term memory, and domain-specific cybersecurity knowledge. Modeled as an ex-black-hat hacker turned ethical hacker. Designed to accelerate skill development while maintaining high educational standards.
+A smart, adaptive learning platform that enhances human mentorship through personalized guidance, long-term memory, and domain-specific cybersecurity knowledge. Modeled as an ex-black-hat hacker turned ethical hacker. Designed to accelerate skill development while maintaining high educational standards.
 
 **Key Features:**
 - Adaptive learning pathways
@@ -109,7 +109,7 @@ A centralized management system for automated deployment, management, security h
 ---
 
 ### N-SWAP
-**Real-world Blockchain Payment Infrastructure for Nigeria**
+**Blockchain Payment Infrastructure for Nigeria**
 
 <p align="center">
   <img src="assets/images/nswap-banner.png" width="100%" alt="N-SWAP">
@@ -121,7 +121,7 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 - Multi-chain support
 - Secure crypto-to-Naira gateway
 - Bill payment integration
-- Decentralized and resilient architecture
+- Decentralized architecture
 
 ➡️ **Repository**: https://github.com/ShieldNet-dev/n-swap
 
