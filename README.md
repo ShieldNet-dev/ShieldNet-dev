@@ -1,18 +1,20 @@
 <div align="center"><h1><strong>Abraham Ojabugbe</strong></h1><h2><strong>Cybersecurity Engineer - Founder Praeceptor AI</strong></h2><p><em>Designing secure, intelligent systems that make advanced technology practical, resilient, and trustworthy.</em></p>---
 
+<hr>
+
+<h2><strong>About Me</strong></h2>
+
+<p>
+I am passionate about engineering secure, intelligent systems that enable individuals and organizations to embrace emerging technologies with confidence. Whether it's AI, networking, communications infrastructure, or blockchain, everything I build is driven by one purpose.
+</p>
+
+<div align="center">
+
+<h3><em>Increase Trust in Technology Through Secure Engineering.</em></h3>
+
 </div>
 
----
-
-About Me
-
-I am passionate about engineering secure, intelligent systems that enable individuals and organizations to embrace emerging technologies with confidence. Whether it's AI, networking, communications infrastructure, or blockchain, everything I build is driven by one purpose.
-
-<br><div align="center"><h1>
-<strong>Increase Trust in Technology</strong>
-<br>
-<strong>Through Secure Engineering.</strong>
-</div>---
+<hr>
 
 
 What I Do
