@@ -15,47 +15,62 @@ I am passionate about engineering secure, intelligent systems that enable indivi
 <hr>
 
 
+---
+
 What I Do
 
 I design, build, secure, and automate modern technology platforms with a security-first mindset.
 
-🛡 Cybersecurity Engineering
+<table>
+<tr>
+<td valign="top" width="50%">🛡 Cybersecurity
 
-- Security Architecture & Threat Modeling
+- Security Architecture
+- Threat Modeling
 - Secure System Design
 - Security Hardening
-- Infrastructure Security
 - Security Automation
 - Defensive Security
 
-🌐 Network Engineering
+</td><td valign="top" width="50%">🌐 Network Engineering
 
 - Enterprise Network Design
-- Network Configuration
-- Network Troubleshooting
 - Network Security
-- TCP/IP, Routing & Switching
+- TCP/IP
+- Routing & Switching
+- Network Configuration
+- Troubleshooting
 
-🤖 AI Security Engineering
+</td>
+</tr><tr>
+<td valign="top">🤖 AI Security
 
-- AI-powered Cybersecurity Solutions
-- Intelligent Security Automation
-- AI Assistants & Agentic Workflows
+- AI Security Solutions
+- AI Assistants
+- Agentic Workflows
+- Intelligent Automation
 - Secure AI Integration
 
-📡 VoIP Infrastructure Engineering
+</td><td valign="top">📡 Infrastructure & VoIP
 
-- VoIP Deployment & Administration
+- VoIP Deployment
 - SIP Infrastructure
-- TLS & SRTP Hardening
-- Centralized Infrastructure Management
+- TLS & SRTP
+- Infrastructure Automation
+- Centralized Management
 
-⛓ Blockchain Engineering
+</td>
+</tr><tr>
+<td colspan="2">⛓ Blockchain
 
 - Smart Contract Integration
 - Decentralized Payment Systems
 - Blockchain Infrastructure
 - Real-world Crypto Applications
+
+</td>
+</tr>
+</table>---
 
 ---
 
