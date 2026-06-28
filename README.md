@@ -21,50 +21,56 @@ My expertise spans **AI security**, **enterprise Networking**, **secure VoIP inf
 
 ## What I Do
 
-I architect, secure, and automate modern technology platforms with a strong emphasis on defense-in-depth and operational resilience.
+I architect, secure, and automate modern technology platforms with a security-first mindset.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>🛡️ Cybersecurity</strong><br><br>
-      • Security Architecture & Threat Modeling<br>
-      • Secure System Design<br>
-      • Security Hardening & Automation<br>
-      • Defensive Security Operations
-    </td>
-    <td valign="top" width="50%">
-      <strong>🌐 Network Engineering</strong><br><br>
-      • Enterprise Network Design<br>
-      • Network Security & Segmentation<br>
-      • Routing, Switching & Infrastructure<br>
-      • Basic Network Troubleshooting
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>🤖 AI Security</strong><br><br>
-      • Secure AI Integration<br>
-      • AI Agent Security<br>
-      • Intelligent Automation & Workflows<br>
-      • AI-powered Security Solutions
-    </td>
-    <td valign="top">
-      <strong>📡 Infrastructure & VoIP</strong><br><br>
-      • Secure VoIP Deployment<br>
-      • SIP Infrastructure & Hardening<br>
-      • TLS/SRTP Implementation<br>
-      • Centralized Management & Monitoring
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <strong>⛓ Blockchain</strong><br><br>
-      • Smart Contract Integration<br>
-      • Decentralized Payment Systems<br>
-      • Real-world Blockchain Applications
-    </td>
-  </tr>
-</table>
+<details>
+<summary><strong>🛡️ Cybersecurity Engineering</strong></summary>
+
+- Security Architecture & Threat Modeling
+- Secure System Design
+- Security Hardening & Automation
+- Defensive Security Operations
+
+</details>
+
+<details>
+<summary><strong>🌐 Network Engineering</strong></summary>
+
+- Enterprise Network Design
+- Network Security & Segmentation
+- Routing, Switching & Infrastructure
+- Network Troubleshooting
+
+</details>
+
+<details>
+<summary><strong>🤖 AI Security Engineering</strong></summary>
+
+- Secure AI Integration
+- AI Agent Security
+- Intelligent Automation
+- AI-powered Security Solutions
+
+</details>
+
+<details>
+<summary><strong>📡 VoIP Infrastructure</strong></summary>
+
+- Secure VoIP Deployment
+- SIP Infrastructure
+- TLS & SRTP
+- Centralized Management
+
+</details>
+
+<details>
+<summary><strong>⛓ Blockchain Engineering</strong></summary>
+
+- Smart Contract Integration
+- Decentralized Payment Systems
+- Blockchain Infrastructure
+
+</details>
 
 ---
 
