@@ -1,62 +1,59 @@
 <div align="center">
+  <img src="assets/images/profile.jpg" width="180" alt="Abraham Ojabugbe" style="border-radius: 50%;">
+  
   <h1><strong>Abraham Ojabugbe</strong></h1>
   <h2><strong>Cybersecurity Engineer & Founder, Praeceptor AI</strong></h2>
-  <p><em>Designing secure, intelligent systems that make advanced technology practical, resilient, and trustworthy.</em></p>
-
-  <img src="1773422630615.jpg" width="800" alt="Abraham Ojabugbe">
+  
+  <p><em>Building secure, intelligent systems that make advanced technology practical, resilient, and trustworthy.</em></p>
 </div>
 
 ---
 
 ## About Me
 
-I am a passionate Cybersecurity Engineer dedicated to building secure, intelligent systems that empower individuals and organizations to adopt emerging technologies with confidence. My work spans **AI security**, **network engineering**, **VoIP infrastructure**, and **blockchain systems** — all unified by a single mission:
+Passionate Cybersecurity Engineer and founder of **Praeceptor AI**, I design and implement secure technology solutions that enable organizations and individuals to adopt emerging technologies with confidence. 
 
-> **Increase trust in technology through secure, thoughtful engineering.**
+My expertise spans **AI security**, **enterprise networking**, **secure VoIP infrastructure**, and **blockchain systems**.
+
+> **Mission:** Increase trust in technology through thoughtful, resilient, and secure system design.
 
 ---
 
 ## What I Do
 
-I design, build, secure, and automate modern technology platforms with a security-first mindset.
+I architect, secure, and automate modern technology platforms with a strong emphasis on defense-in-depth and operational resilience.
 
 <table>
   <tr>
     <td valign="top" width="50%">
       <strong>🛡️ Cybersecurity</strong><br><br>
-      • Security Architecture<br>
-      • Threat Modeling<br>
+      • Security Architecture & Threat Modeling<br>
       • Secure System Design<br>
-      • Security Hardening<br>
-      • Security Automation<br>
-      • Defensive Security
+      • Security Hardening & Automation<br>
+      • Defensive Security Operations
     </td>
     <td valign="top" width="50%">
       <strong>🌐 Network Engineering</strong><br><br>
       • Enterprise Network Design<br>
-      • Network Security<br>
-      • TCP/IP & Routing<br>
-      • Switching & VLANs<br>
-      • Configuration Management<br>
-      • Advanced Troubleshooting
+      • Network Security & Segmentation<br>
+      • Routing, Switching & Infrastructure<br>
+      • Basic Network Troubleshooting
     </td>
   </tr>
   <tr>
     <td valign="top">
       <strong>🤖 AI Security</strong><br><br>
-      • AI Security Solutions<br>
       • Secure AI Integration<br>
-      • Agentic Workflows<br>
-      • Intelligent Automation<br>
-      • AI Assistants
+      • AI Agent Security<br>
+      • Intelligent Automation & Workflows<br>
+      • AI-powered Security Solutions
     </td>
     <td valign="top">
       <strong>📡 Infrastructure & VoIP</strong><br><br>
-      • VoIP Deployment & Management<br>
-      • SIP Infrastructure<br>
-      • TLS & SRTP Encryption<br>
-      • Infrastructure Automation<br>
-      • Centralized Monitoring
+      • Secure VoIP Deployment<br>
+      • SIP Infrastructure & Hardening<br>
+      • TLS/SRTP Implementation<br>
+      • Centralized Management & Monitoring
     </td>
   </tr>
   <tr>
@@ -64,8 +61,7 @@ I design, build, secure, and automate modern technology platforms with a securit
       <strong>⛓ Blockchain</strong><br><br>
       • Smart Contract Integration<br>
       • Decentralized Payment Systems<br>
-      • Blockchain Infrastructure<br>
-      • Real-world Crypto Applications
+      • Real-world Blockchain Applications
     </td>
   </tr>
 </table>
@@ -74,99 +70,102 @@ I design, build, secure, and automate modern technology platforms with a securit
 
 ## Featured Projects
 
-### 🧠 Praeceptor AI
-**Adaptive AI-Powered Cybersecurity Mentor**
+### Praeceptor AI
+**A Smart Cybersecurity Mentor**
 
 <p align="center">
-  <img src="IMG_20260127_134255_588.webp" width="100%" alt="Praeceptor AI">
+  <img src="assets/images/praeceptor-banner.png" width="100%" alt="Praeceptor AI">
 </p>
 
-An intelligent platform that extends human mentorship through adaptive learning, long-term memory, and personalized guidance — helping cybersecurity learners accelerate their growth while complementing human instructors.
+An intelligent adaptive learning platform that enhances human mentorship through personalized guidance, long-term memory, and domain-specific cybersecurity knowledge. Modeled as an ex-black-hat hacker turned ethical hacker. Designed to accelerate skill development while maintaining high educational standards.
 
-**Highlights:**
-- Adaptive, personalized learning paths
+**Key Features:**
+- Adaptive learning pathways
 - Long-term conversational memory
-- Security-focused knowledge base
+- Offensive Security-focused knowledge architecture
 - Intelligent mentoring system
 
-➡️ **Repository**: Coming Soon
+➡️ **Repository**: https://github.com/ShieldNet-dev/praeceptor-ai
 
 ---
 
-### 📡 AsterOps
+### AsterOps
 **Centralized Secure VoIP Infrastructure Management**
 
 <p align="center">
-  <img src="file_00000000ab10720a8c20ed56c65e338a.png" width="100%" alt="AsterOps">
+  <img src="assets/images/asterops-banner.png" width="100%" alt="AsterOps">
 </p>
 
-A comprehensive platform that automates VoIP deployment, extension management, security hardening, monitoring, and auditing — significantly reducing human error while strengthening operational security.
+A centralized management system for automated deployment, management, security hardening, and auditing of VoIP infrastructure. Reduces operational risk while improving security posture and efficiency.
 
-**Highlights:**
-- Automated VoIP deployment & provisioning
-- TLS & SRTP security integration
-- Centralized management dashboard
-- Comprehensive security auditing
+**Key Features:**
+- Automated provisioning & deployment
+- TLS & SRTP security enforcement
+- Centralized management & monitoring
+- Security auditing & compliance
 
-➡️ **Repository**: Coming Soon
+➡️ **Repository**: https://github.com/ShieldNet-dev/AsterOps
 
 ---
 
-### ⛓ N-SWAP
-**Real-world Blockchain Payments**
+### N-SWAP
+**Real-world Blockchain Payment Infrastructure for Nigeria**
 
 <p align="center">
-  <img src="grok_image_z6d86e.jpg" width="100%" alt="N-SWAP">
+  <img src="assets/images/nswap-banner.png" width="100%" alt="N-SWAP">
 </p>
 
-A decentralized payment infrastructure that bridges cryptocurrency with everyday life, enabling Nigerians to seamlessly convert crypto into Naira and pay for essential services.
+A decentralized payment solution that bridges cryptocurrency with everyday financial needs, enabling seamless crypto-to-fiat conversion and bill payments with a focus on usability and security.
 
-**Highlights:**
+**Key Features:**
 - Multi-chain support
-- Crypto-to-Naira conversion
-- Bill payments integration
-- Secure decentralized architecture
+- Secure crypto-to-Naira gateway
+- Bill payment integration
+- Decentralized and resilient architecture
 
-➡️ **Repository**: Coming Soon
+➡️ **Repository**: https://github.com/ShieldNet-dev/n-swap
 
 ---
 
 ## Core Technologies
 
 **Languages**  
-Python • TypeScript • Solidity
+Python || TypeScript || Solidity
 
-**Networking**  
-Cisco • Asterisk PBX • TCP/IP • Routing & Switching • DNS • DHCP • VLANs • Firewall
+**Networking & Infrastructure**  
+Cisco || Asterisk PBX || TCP/IP || Routing & Switching || DNS || DHCP || VLANs || Firewalls
 
 **Security**  
-Kali Linux • Wireshark • Nmap • Burp Suite • OpenVAS • Security Automation
+Kali Linux || Wireshark || Nmap || Metasploit || STRIDE || PASTA 
 
-**AI & Agents**  
-Hermes • Ollama • OpenAI • Gwen • LangChain • Prompt Engineering • Agentic Systems
+**AI & Intelligent Systems**  
+OpenAI || Ollama || LangChain || Prompt Engineering || Agentic Workflows
 
-**DevOps & Tools**  
-Git • Docker • Linux • Infrastructure as Code
+**Tools & Platforms**  
+Git || Docker || Linux || AWS
 
 ---
 
 ## Currently
 
-- **Final-year Cybersecurity Student** — Graduating August 2026
-- **ISC² Certified**
-- Preparing for **Cisco CCNA** and **CompTIA Security+**
-- Building production-grade cybersecurity platforms
-- Contributing to open-source security projects
+- Final-year Cybersecurity Student (Graduating August 2026)
+- ISC² Certified
+- Cisco CCNA (in view)
+- CompTIA Security+ (in view)
+- Actively contributing to open-source security initiatives
+
 ---
 
-## Let's Connect & Collaborate
+## Let's Connect
 
-I'm always open to collaborating with engineers, researchers, organizations, and students working on secure, intelligent, and impactful technologies.
+I'm always interested in discussing cybersecurity, secure systems design, AI security, or potential collaboration opportunities.
 
-**Building the future. Securing it by design.**
+- **Email**: [abrahamojabugbe@gmail.com](mailto: shieldnetinfo@gmail.com)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ojabugbe-abraham-3881552a2)
+- **Twitter/X**: [@yourhandle](https://x.com/abbydaanny)
 
 ---
 
 <div align="center">
-  <strong>Feel free to explore my repositories and reach out!</strong>
+  <strong>Building the future. Securing it by design.</strong>
 </div>
