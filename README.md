@@ -134,16 +134,16 @@ A decentralized payment infrastructure that bridges cryptocurrency with everyday
 ## Core Technologies
 
 **Languages**  
-Python • TypeScript • Solidity • Bash
+Python • TypeScript • Solidity
 
 **Networking**  
-Cisco • TCP/IP • Routing & Switching • DNS • DHCP • VLANs
+Cisco • Asterisk PBX • TCP/IP • Routing & Switching • DNS • DHCP • VLANs • Firewall
 
 **Security**  
 Kali Linux • Wireshark • Nmap • Burp Suite • OpenVAS • Security Automation
 
 **AI & Agents**  
-OpenAI • Gemini • LangChain • Prompt Engineering • Agentic Systems
+Hermes • Ollama • OpenAI • Gwen • LangChain • Prompt Engineering • Agentic Systems
 
 **DevOps & Tools**  
 Git • Docker • Linux • Infrastructure as Code
@@ -157,20 +157,6 @@ Git • Docker • Linux • Infrastructure as Code
 - Preparing for **Cisco CCNA** and **CompTIA Security+**
 - Building production-grade cybersecurity platforms
 - Contributing to open-source security projects
-
----
-
-## Engineering Principles
-
-Every project I undertake is guided by these core beliefs:
-
-- **Security is foundational** — it belongs in the architecture, not as an afterthought.
-- **Automation empowers** professionals rather than replacing them.
-- **Technology must solve real problems** before showcasing innovation.
-- **Simplicity enhances reliability** and maintainability.
-- **Open source accelerates** learning and collaboration.
-- **Trust is earned** through consistent, secure engineering.
-
 ---
 
 ## Let's Connect & Collaborate
