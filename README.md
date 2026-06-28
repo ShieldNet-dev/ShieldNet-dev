@@ -6,7 +6,7 @@
 
 I am passionate about engineering secure, intelligent systems that enable individuals and organizations to embrace emerging technologies with confidence. Whether it's AI, networking, communications infrastructure, or blockchain, everything I build is driven by one purpose.
 
-<div align="center">
+<div>
 
 <h3><em>Increase Trust in Technology Through Secure Engineering.</em></h3>
 
