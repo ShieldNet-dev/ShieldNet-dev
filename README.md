@@ -3,7 +3,7 @@
   <h2><strong>Cybersecurity Engineer & Founder, Praeceptor AI</strong></h2>
   <p><em>Designing secure, intelligent systems that make advanced technology practical, resilient, and trustworthy.</em></p>
 
-  <img src="assets/images/praeceptor-banner.png" width="800" alt="Praeceptor AI Banner">
+  <img src="1773422630615.jpg" width="800" alt="Abraham Ojabugbe">
 </div>
 
 ---
