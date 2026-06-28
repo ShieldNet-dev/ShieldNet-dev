@@ -14,9 +14,6 @@ I am passionate about engineering secure, intelligent systems that enable indivi
 
 <hr>
 
-
----
-
 What I Do
 
 I design, build, secure, and automate modern technology platforms with a security-first mindset.
