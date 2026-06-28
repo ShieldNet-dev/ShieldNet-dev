@@ -4,7 +4,7 @@
 </div>  
 ---
 
-About Me
+## About Me
 
 I am a Cybersecurity Engineer and founder of Praeceptor AI, I design and implement secure technology solutions that enable organizations and individuals to adopt emerging technologies with confidence.
 
