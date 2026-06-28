@@ -78,7 +78,7 @@ I design, build, secure, and automate modern technology platforms with a securit
 **Adaptive AI-Powered Cybersecurity Mentor**
 
 <p align="center">
-  <img src="assets/images/praeceptor-banner.png" width="100%" alt="Praeceptor AI">
+  <img src="IMG_20260127_134255_588.webp" width="100%" alt="Praeceptor AI">
 </p>
 
 An intelligent platform that extends human mentorship through adaptive learning, long-term memory, and personalized guidance — helping cybersecurity learners accelerate their growth while complementing human instructors.
