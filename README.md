@@ -116,7 +116,7 @@ A comprehensive platform that automates VoIP deployment, extension management, s
 **Real-world Blockchain Payments**
 
 <p align="center">
-  <img src="assets/images/nswap-banner.png" width="100%" alt="N-SWAP">
+  <img src="grok_image_z6d86e.jpg" width="100%" alt="N-SWAP">
 </p>
 
 A decentralized payment infrastructure that bridges cryptocurrency with everyday life, enabling Nigerians to seamlessly convert crypto into Naira and pay for essential services.
