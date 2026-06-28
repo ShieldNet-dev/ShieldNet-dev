@@ -1,16 +1,11 @@
-<div align="center"><h1><strong>Abraham Ojabugbe</strong></h1><h2><strong>Cybersecurity Engineer - Founder Praeceptor AI</strong></h2><h3>Engineering Trust Into Technology</h3><p><em>Designing secure, intelligent systems that make advanced technology practical, resilient, and trustworthy.</em></p>---
+<div align="center"><h1><strong>Abraham Ojabugbe</strong></h1><h2><strong>Cybersecurity Engineer - Founder Praeceptor AI</strong></h2><p><em>Designing secure, intelligent systems that make advanced technology practical, resilient, and trustworthy.</em></p>---
 
-<p><strong><em>"Technology changes lives. Trust enables technology."</em></strong></p></div>
+</div>
 
-Philosophy
-
-Technology is transforming every aspect of our lives. However, innovation only reaches its full potential when people can trust the systems behind it.
-
-I am passionate about engineering secure, intelligent systems that enable individuals and organizations to embrace emerging technologies with confidence. Whether it's AI, networking, communications infrastructure, or blockchain, my goal remains the same:
+I am passionate about engineering secure, intelligent systems that enable individuals and organizations to embrace emerging technologies with confidence. Whether it's AI, Networking, communications infrastructure, or blockchain, my goal remains the same:
 
 «Increase trust in technology through secure engineering.»
 
----
 
 What I Do
 
