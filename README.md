@@ -97,7 +97,7 @@ An intelligent platform that extends human mentorship through adaptive learning,
 **Centralized Secure VoIP Infrastructure Management**
 
 <p align="center">
-  <img src="assets/images/asterops-banner.png" width="100%" alt="AsterOps">
+  <img src="file_00000000ab10720a8c20ed56c65e338a.png" width="100%" alt="AsterOps">
 </p>
 
 A comprehensive platform that automates VoIP deployment, extension management, security hardening, monitoring, and auditing — significantly reducing human error while strengthening operational security.
