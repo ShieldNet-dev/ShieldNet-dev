@@ -153,20 +153,75 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 ## Core Technologies
 
-**Languages**  
-Python || TypeScript || Solidity
+### 💻 Languages
 
-**Networking & Infrastructure**  
-Cisco || Asterisk PBX || TCP/IP || Routing & Switching || DNS || DHCP || VLANs || Firewalls
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,solidity" />
+</p>
 
-**Security**  
-Kali Linux || Wireshark || Nmap || Metasploit || STRIDE || PASTA 
+### 🌐 Networking & Infrastructure
 
-**AI & Intelligent Systems**  
-OpenAI || Ollama || LangChain || Prompt Engineering || Agentic Workflows
+<p>
 
-**Tools & Platforms**  
-Git || Docker || Linux || AWS
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+
+<img src="https://img.shields.io/badge/Asterisk-662D91?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/TCP/IP-Networking-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Routing_&_Switching-005073?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/DNS-DHCP-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/VLANs-grey?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Firewalls-red?style=for-the-badge">
+
+</p>
+
+### Security
+
+<p>
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/STRIDE-Threat_Modeling-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/PASTA-Threat_Modeling-orange?style=for-the-badge">
+
+</p>
+
+### AI & Intelligent Systems
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-blueviolet?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/AI_Agents-darkgreen?style=for-the-badge">
+
+</p>
+
+### Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws"/>
+
+</p>
 
 ---
 
