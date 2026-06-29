@@ -217,17 +217,17 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 ---
 
-## Currently
+## Experience & Qualifications
 
 <p>
 
-<img src="https://img.shields.io/badge/_Cybersecurity_Student-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/_B.Sc. Cybersecurity (Expected 2026)-blue?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/_ISC² CC_Certified-green?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/_Cisco_CCNA in_view-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/_Cisco_CCNA Candidate-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/_CompTIA_Security+ in_view-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Preparing_for_CompTIA_Security+ -red?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/_Open_Source Contributor-blue?style=for-the-badge">
 
