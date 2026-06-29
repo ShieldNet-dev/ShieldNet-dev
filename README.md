@@ -2,7 +2,7 @@
   <img src="assets/images/profile.jpg" width="180" alt="Abraham Ojabugbe" style="border-radius: 50%;">
   
   <h1><strong>Abraham Ojabugbe</strong></h1>
-  <h2><strong>Cybersecurity Engineer & Founder, Praeceptor AI</strong></h2>
+  <h2><strong>Cybersecurity Engineer</strong></h2>
   
   <p><em>Building secure, intelligent systems that make advanced technology practical, resilient, and trustworthy.</em></p>
 </div>
@@ -13,7 +13,7 @@
 
 I am a Cybersecurity Engineer and founder of **Praeceptor AI**, I design and implement secure technology solutions that enable organizations and individuals to adopt emerging technologies with confidence. 
 
-My expertise spans **AI security**, **enterprise Networking**, **secure VoIP infrastructure**, and **blockchain systems**.
+My expertise spans **AI security**, **enterprise Networking**, **secure VoIP infrastructure**, and **Blockchain systems**.
 
 > **Mission:** Increase trust in technology through thoughtful, resilient, and secure system design.
 
@@ -21,10 +21,10 @@ My expertise spans **AI security**, **enterprise Networking**, **secure VoIP inf
 
 ## What I Do
 
-I architect, secure, and automate modern technology platforms with a security-first mindset.
+I architect, secure, and automate modern technology platforms with a secure by design principle in the following areas:
 
 <details>
-<summary><strong>🛡️ Cybersecurity Engineering</strong></summary>
+<summary><strong>Cybersecurity Engineering</strong></summary>
 
 - Security Architecture & Threat Modeling
 - Secure System Design
@@ -34,7 +34,7 @@ I architect, secure, and automate modern technology platforms with a security-fi
 </details>
 
 <details>
-<summary><strong>🌐 Network Engineering</strong></summary>
+<summary><strong>Network Engineering</strong></summary>
 
 - Enterprise Network Design
 - Network Security & Segmentation
@@ -44,7 +44,7 @@ I architect, secure, and automate modern technology platforms with a security-fi
 </details>
 
 <details>
-<summary><strong>🤖 AI Security Engineering</strong></summary>
+<summary><strong>AI Security Engineering</strong></summary>
 
 - Secure AI Integration
 - AI Agent Security
@@ -54,7 +54,7 @@ I architect, secure, and automate modern technology platforms with a security-fi
 </details>
 
 <details>
-<summary><strong>📡 VoIP Infrastructure</strong></summary>
+<summary><strong>VoIP Infrastructure</strong></summary>
 
 - Secure VoIP Deployment
 - SIP Infrastructure
@@ -64,7 +64,7 @@ I architect, secure, and automate modern technology platforms with a security-fi
 </details>
 
 <details>
-<summary><strong>⛓ Blockchain Engineering</strong></summary>
+<summary><strong>Blockchain Engineering</strong></summary>
 
 - Smart Contract Integration
 - Decentralized Payment Systems
@@ -153,13 +153,13 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 ## Core Technologies
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,typescript,solidity" />
 </p>
 
-### 🌐 Networking & Infrastructure
+### Networking & Infrastructure
 
 <p>
 
@@ -167,7 +167,7 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 <img src="https://img.shields.io/badge/Asterisk-662D91?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Routing_&_Switching-005073?style=for-the-badge">
 
