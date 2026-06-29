@@ -185,17 +185,17 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 <p>
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge">
+<img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge">
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/STRIDE-Threat_Modeling-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/STRIDE-Threat_Modeling-red?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/PASTA-Threat_Modeling-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/PASTA-Threat_Modeling-red?style=for-the-badge">
 
 </p>
 
@@ -205,13 +205,13 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Prompt_Engineering-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/Prompt_Engineering-darkgreen?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/AI_Agents-darkgreen?style=for-the-badge">
 
@@ -231,15 +231,15 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 <p>
 
-<img src="https://img.shields.io/badge/🎓_Final--Year_Cybersecurity_Student-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/_Cybersecurity_Student-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/🛡️_ISC²_Certified-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/_ISC²_Certified-green?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/🌐_Cisco_CCNA-In_Progress-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/_Cisco_CCNA-in_view-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/🔐_CompTIA_Security+-In_Progress-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/🔐_CompTIA_Security+-in_view-red?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/🚀_Open_Source-Contributor-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀_Open_Source-Contributor-blue?style=for-the-badge">
 
 </p>
 
