@@ -91,7 +91,13 @@ A smart, adaptive learning platform that enhances human mentorship through perso
 - Offensive Security-focused knowledge architecture
 - Intelligent mentoring system
 
-➡️ **Repository**: https://github.com/ShieldNet-dev/praeceptor-ai
+<p align="center">
+
+<a href="https://github.com/ShieldNet-dev/praeceptor-ai">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
 
 ---
 
