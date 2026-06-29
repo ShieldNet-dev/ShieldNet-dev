@@ -235,11 +235,11 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 <img src="https://img.shields.io/badge/_ISC²_Certified-green?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/_Cisco_CCNA-in_view-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/_Cisco_CCNA in_view-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/🔐_CompTIA_Security+-in_view-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/_CompTIA_Security+ in_view-red?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/🚀_Open_Source-Contributor-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/_Open_Source Contributor-blue?style=for-the-badge">
 
 </p>
 
