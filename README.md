@@ -247,24 +247,24 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 <div align="center">
 
-<img src="assets/images/profile.jpg" width="120" alt="Abraham Ojabugbe">
+<p>
+I'm always interested in discussing <strong>cybersecurity</strong>, <strong>secure systems design</strong>, <strong>AI security</strong>, or potential <strong>collaboration opportunities</strong>.
+</p>
 
-<br><br>
+<br>
 
 <a href="mailto:shieldnetinfo@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email">
 </a>
-
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/ojabugbe-abraham-3881552a2">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn">
 </a>
-
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/abbydaanny">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="48" alt="X">
 </a>
 
 </div>
