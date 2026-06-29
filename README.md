@@ -9,16 +9,6 @@
 
 ---
 
-## About Me
-
-I am a Cybersecurity Engineer and founder of **Praeceptor AI**, I design and implement secure technology solutions that enable organizations and individuals to adopt emerging technologies with confidence. 
-
-My expertise spans **AI security**, **enterprise Networking**, **secure VoIP infrastructure**, and **Blockchain systems**.
-
-> **Mission:** Increase trust in technology through thoughtful, resilient, and secure system design.
-
----
-
 ## What I Do
 
 I architect, secure, and automate modern technology platforms with a secure by design principle in the following areas:
