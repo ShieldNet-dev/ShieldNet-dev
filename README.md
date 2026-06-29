@@ -245,11 +245,29 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 ## Let's Connect
 
-I'm always interested in discussing cybersecurity, secure systems design, AI security, or potential collaboration opportunities.
+<div align="center">
 
-- **Email**: [shieldnetinfo@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/ojabugbe-abraham-3881552a2]
-- **Twitter/X**: [https://x.com/abbydaanny]
+<img src="assets/images/profile.jpg" width="120" alt="Abraham Ojabugbe">
+
+<br><br>
+
+<a href="mailto:shieldnetinfo@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/ojabugbe-abraham-3881552a2">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://x.com/abbydaanny">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+</div>
 
 ---
 
