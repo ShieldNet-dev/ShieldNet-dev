@@ -167,7 +167,7 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 <img src="https://img.shields.io/badge/Asterisk-662D91?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/TCP/IP-Networking-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Routing_&_Switching-005073?style=for-the-badge">
 
@@ -219,7 +219,7 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,windows"/>
 
 </p>
 
@@ -227,11 +227,19 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 ## Currently
 
-- Final-year Cybersecurity Student (Graduating August 2026)
-- ISC² Certified
-- Cisco CCNA (in view)
-- CompTIA Security+ (in view)
-- Actively contributing to open-source security initiatives
+<p>
+
+<img src="https://img.shields.io/badge/🎓_Final--Year_Cybersecurity_Student-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/🛡️_ISC²_Certified-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/🌐_Cisco_CCNA-In_Progress-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/🔐_CompTIA_Security+-In_Progress-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/🚀_Open_Source-Contributor-purple?style=for-the-badge">
+
+</p>
 
 ---
 
