@@ -9,7 +9,7 @@
 
 ---
 
-## What I Do
+## Expertise
 
 I architect, secure, and automate modern technology platforms with a secure by design principle in the following areas:
 
