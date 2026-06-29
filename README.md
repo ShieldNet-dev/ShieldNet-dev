@@ -169,7 +169,7 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 
 <img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Routing_&_Switching-005073?style=for-the-badge">
+<img src="https://img.shields.io/badge/Routing_&_Switching-FFFFFF?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/DNS-DHCP-success?style=for-the-badge">
 
