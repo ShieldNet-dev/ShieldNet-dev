@@ -116,7 +116,13 @@ A centralized management system for automated deployment, management, security h
 - Centralized management & monitoring
 - Security auditing & compliance
 
-➡️ **Repository**: https://github.com/ShieldNet-dev/AsterOps
+<p align="center">
+
+<a href="https://github.com/ShieldNet-dev/AsterOps">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
 
 ---
 
@@ -135,7 +141,13 @@ A decentralized payment solution that bridges cryptocurrency with everyday finan
 - Bill payment integration
 - Decentralized architecture
 
-➡️ **Repository**: https://github.com/ShieldNet-dev/n-swap
+<p align="center">
+
+<a href="https://github.com/ShieldNet-dev/n-swap">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
 
 ---
 
